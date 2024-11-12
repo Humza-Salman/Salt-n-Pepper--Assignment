@@ -126,6 +126,7 @@ nav ul a{
     justify-content: space-evenly;
     align-items: center;
     gap: 100px;
+    color: white;
 }
 
 /* Main section 2 End */
